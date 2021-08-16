@@ -1,0 +1,3 @@
+C:\Users\Assassian360\Dropbox\Dropbox\GameDev Major\GameDevMajor\GameDevMajorContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Peter\Dropbox\GameDev Major\GameDevMajor\GameDevMajorContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Assassian360\Dropbox\Dropbox\Current Build 28_10_2011 r3\GameDevMajor\GameDevMajorContent\obj\x86\Release\ResolveAssemblyReference.cache

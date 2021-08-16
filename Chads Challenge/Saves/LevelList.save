@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SavedLevelList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <levels>
+    <LevelInfo>
+      <levelNumber>1</levelNumber>
+      <levelName>Just for starters</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>2</levelNumber>
+      <levelName>The courtyard</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>3</levelNumber>
+      <levelName>Fire and water</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>4</levelNumber>
+      <levelName>Prey</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>5</levelNumber>
+      <levelName>The prison</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>6</levelNumber>
+      <levelName>Behind the wall</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>7</levelNumber>
+      <levelName>The treasury</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>8</levelNumber>
+      <levelName>Just cruel</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>9</levelNumber>
+      <levelName>The moat</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>10</levelNumber>
+      <levelName>Just cruel</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>11</levelNumber>
+      <levelName>Level 11</levelName>
+    </LevelInfo>
+    <LevelInfo>
+      <levelNumber>12</levelNumber>
+      <levelName>Level 12</levelName>
+    </LevelInfo>
+  </levels>
+  <currentLevel>9</currentLevel>
+  <totalScore>0</totalScore>
+  <nextLevelNumber>13</nextLevelNumber>
+</SavedLevelList>
