@@ -1,4 +1,4 @@
-# ChadsChallengePublic
+# Chads Challenge
  A game developed in 2011 using XNA for the Game Development topic.
 
 The game was developed by Peter Mitchell, Brett Mitchell, Kane Stone, and Phil Lavender.
